@@ -1,0 +1,5 @@
+chest_Xray/
+.venv
+mon_env/
+VGG16_Paulin/*.h5
+VGG16_Paulin/*.png
